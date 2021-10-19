@@ -27,7 +27,7 @@ body {
 
 .card {
   /* background: linear-gradient(35deg, #ccfffc, #ffcccf); */
-  background: url("/Photo_1634499985255.jpg") center bottom/cover;
+  background: url("Photo_1634499985255.jpg") center bottom/cover;
   width: 10cm;
   height: 7cm;
   border: solid burlywood 1px;
